@@ -3,6 +3,13 @@
 > **🔗 Živa demo aplikacija:** [https://demotpo.z49.web.core.windows.net](https://demotpo.z49.web.core.windows.net)  
 > *(prikazuje celoten tok: registracija → profil → predlogi skupin → chat)*
 
+Admin prijava:
+Email: admin@srecajmose.si
+Geslo: admin123
+
+Demo uporabnik:
+Email: ana@demo.com
+Geslo: demo123
 ---
 
 ## ✅ Ustreznost za vlogo (načrtovanje spletnih rešitev, UX/UI, analiza, testiranje)
