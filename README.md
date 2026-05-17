@@ -10,6 +10,7 @@ Geslo: admin123
 Demo uporabnik:
 Email: ana@demo.com
 Geslo: demo123
+
 ---
 
 ## ✅ Ustreznost za vlogo (načrtovanje spletnih rešitev, UX/UI, analiza, testiranje)
